@@ -1,0 +1,3 @@
+This Flanker task is designed to with 3 different blocks and different trials proportion to activate "proactive" and "reactive" Filtering mechanism.
+The shock triggers are also incorporated such that random shock triggers will be delivered throughout of the task. 
+There are specific events trials written to communicate with the EEG amplifier through the parallel port in case it is used. Of course, the shock device (PsychLab) and the EEG device should be connected in order to receive the triggers.
